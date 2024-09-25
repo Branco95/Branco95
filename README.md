@@ -2,6 +2,15 @@
 
 ## Software Engineer | Fullstack developer
 
+I've a bachelor's degree in Computer Science Engineering, and I'm a passionate Full Stack Developer, available for both remote or on-site opportunities in Portugal. 
+I'm a curious and passionate developer who loves to learn new things, share knowledge and who's always looking for new challenges and opportunities to grow. Let's talk! 🚀
+
+### Spoken Languages
+* Portuguese  
+* English  
+* French  
+* German
+
 
 ### Skills
 [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
