@@ -28,7 +28,7 @@ I'm a curious and passionate developer who loves to learn new things, share know
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 
 ### Social Media
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/wilsonbranquinho)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wilsonbranquinho)
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Branco95&layout=compact&theme=radical)
